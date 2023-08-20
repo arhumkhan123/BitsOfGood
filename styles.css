@@ -1,0 +1,22 @@
+/* Your Styles Here */
+body{
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+  
+.card {
+    
+    box-shadow: 0 10px 10px  rgba(0,0,0,0.1);
+    width: 50%;
+  }
